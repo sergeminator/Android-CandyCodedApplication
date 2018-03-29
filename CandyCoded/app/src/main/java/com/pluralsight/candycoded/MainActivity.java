@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         inflater.inflate(R.menu.main, menu);
         return true;
     }
-    
+
     // ***
     // Show Store Information Activity
     // ***
